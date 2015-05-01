@@ -1,0 +1,3 @@
+fixtures:
+  repositories:
+    connect: https://github.com/hajee/connect.git
