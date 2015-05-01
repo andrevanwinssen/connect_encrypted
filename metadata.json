@@ -9,6 +9,7 @@
   "issues_url": "https://github.com/hajee/connect_encrypted/issues",
   "description": "Importer to import data from Encypted files into Connect",
   "dependencies": [
+      {"name":"hajee/connect","version_requirement":">= 0.0.9 < 0.1.0"}
   ],
   "operatingsystem_support": [
       {
